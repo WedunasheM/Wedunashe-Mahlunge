@@ -3,7 +3,7 @@
 
 <html>
 <Head>
-<title>  Wedunashe-Mahlunge</title>
+Praise God
 </Head>
 <body>
 <h2>My Name is Wedunashe Ryn Mahlunge👨🏾‍💻 </h2>
